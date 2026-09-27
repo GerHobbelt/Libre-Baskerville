@@ -19,6 +19,11 @@ To contribute to the project contact Pablo Impallari at impallari@gmail.com
 
 ChangeLog
 
+Aug 2025 (Pablo Impallari) Libre Baskerville v2.001
+- Added new Bold Italic style.
+- AfricanPri Charset
+- A few small bug fixes.
+
 Nov 2024 (Pablo Impallari) Libre Baskerville v1.051
 - Expanded the Latin charset
 - Added AfricanPri charset
