@@ -2,7 +2,8 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"ƀꞓǥɨɉꝁᵽɍʉɏƶ"
+"ɩ ɂ
+ʋⱳƴ"
 );
 axes = (
 {
@@ -2318,6 +2319,68 @@ pos = (-238,-270);
 lockAngle = 1;
 name = "Bbox Top";
 pos = (-238,970);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
+},
+{
+lockAngle = 1;
+name = "Half x";
+pos = (-212,265);
+},
+{
+lockAngle = 1;
+name = "Half Cap";
+pos = (-212,385);
+},
+{
+pos = (525,950);
+},
+{
+pos = (128,780);
+},
+{
+lockAngle = 1;
+name = "Bbox Top";
+pos = (-238,970);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
+},
+{
+lockAngle = 1;
+name = "Half x";
+pos = (-212,265);
+},
+{
+lockAngle = 1;
+name = "Half Cap";
+pos = (-212,385);
+},
+{
+pos = (525,950);
+},
+{
+pos = (128,780);
+},
+{
+lockAngle = 1;
+name = "Bbox Top";
+pos = (-238,970);
+},
+{
+lockAngle = 1;
+name = "Bbox Bottom";
+pos = (-238,-270);
 },
 {
 lockAngle = 1;
@@ -7362,7 +7425,7 @@ unicode = 280;
 {
 color = 4;
 glyphname = Eopen;
-lastChange = "2024-09-10 17:23:35 +0000";
+lastChange = "2024-10-28 16:38:28 +0000";
 layers = (
 {
 background = {
@@ -7411,7 +7474,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(568,757,o),
+(570,757,o),
 (522,780,o),
 (438,780,cs),
 (272,780,o),
@@ -7426,7 +7489,7 @@ nodes = (
 (101,67,o),
 (237,-10,o),
 (419,-10,cs),
-(519,-10,o),
+(517,-10,o),
 (576,13,o),
 (656,79,c),
 (679,0,l),
@@ -13359,7 +13422,7 @@ color = 4;
 glyphname = Eng;
 kernLeft = KERN_N_2ND;
 kernRight = KERN_N_1ST;
-lastChange = "2024-09-07 16:10:09 +0000";
+lastChange = "2024-10-27 22:39:31 +0000";
 layers = (
 {
 layerId = m001;
@@ -21814,7 +21877,7 @@ unicode = 437;
 {
 color = 4;
 glyphname = Saltillo;
-lastChange = "2024-09-08 05:45:50 +0000";
+lastChange = "2024-10-27 22:32:57 +0000";
 layers = (
 {
 layerId = m001;
@@ -72101,5 +72164,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 50;
+versionMinor = 51;
 }
